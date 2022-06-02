@@ -319,6 +319,10 @@ h2 {
   }
 }
 
+.badge {
+	background: #8D8D8D;
+}
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -340,6 +344,12 @@ h2 {
   background: url("../img/graphic design assets/DDES1130-Photo-BashingArtboard-2.jpg") center right no-repeat; 
   background-size: cover;
 }
+
+.connection-project{
+  background: url("../img/connection assets/charlesdeluvio-AT5vuPoi8vc-unsplash.jpg") center center no-repeat; 
+  background-size: cover;
+}
+
 
 .portfolio-page:before{
   background: rgba(255, 255, 255, 0.5);	
