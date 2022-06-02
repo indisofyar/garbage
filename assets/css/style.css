@@ -341,6 +341,12 @@ h2 {
   background-size: cover;
 }
 
+.connection-proj{
+  background: url("../img/connection project assets/charlesdeluvio-AT5vuPoi8vc-unsplash.jpg") center center no-repeat; 
+  background-size: cover;
+}
+
+
 .portfolio-page:before{
   background: rgba(255, 255, 255, 0.5);	
 }
