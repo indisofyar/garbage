@@ -8,9 +8,20 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+	line-height: 1.5;
+}
+
+p {
+	font-size: 20px;
+}
+
+.xtraBigHeading{
+	font-size: 64px;
 }
 
 a {
